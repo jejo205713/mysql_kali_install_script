@@ -5,10 +5,16 @@ through the use snap packages ...
 
 ## to run the script:
 ```bash
+git clone https://github.com/jejo205713/mysql_kali_install_script.git
+```
+```bash
+cd mysql_kali_install_script
+```
+```bash
 chmod +x mysql_kali_install.sh
 ```
 ```bash
 ./mysql_kali_install.sh
 ```
-## CREDITS:
-JEJO J
+## Author:
+JEJO J 
