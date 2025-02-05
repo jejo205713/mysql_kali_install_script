@@ -1,4 +1,4 @@
-echo "installation script by jejo to install MYSQL-SERVER on kali linux !"
+echo "Installation script by jejo to install MYSQL-SERVER on kali linux !"
 
 echo "🔍 Updating package lists..."
 sudo apt update -y
